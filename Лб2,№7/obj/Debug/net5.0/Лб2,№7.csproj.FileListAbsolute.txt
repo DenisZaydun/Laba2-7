@@ -1,0 +1,16 @@
+E:\My_Projects\c#\2 курс\Лб2,№7\Лб2,№7\bin\Debug\net5.0\Лб2,№7.exe
+E:\My_Projects\c#\2 курс\Лб2,№7\Лб2,№7\bin\Debug\net5.0\Лб2,№7.deps.json
+E:\My_Projects\c#\2 курс\Лб2,№7\Лб2,№7\bin\Debug\net5.0\Лб2,№7.runtimeconfig.json
+E:\My_Projects\c#\2 курс\Лб2,№7\Лб2,№7\bin\Debug\net5.0\Лб2,№7.runtimeconfig.dev.json
+E:\My_Projects\c#\2 курс\Лб2,№7\Лб2,№7\bin\Debug\net5.0\Лб2,№7.dll
+E:\My_Projects\c#\2 курс\Лб2,№7\Лб2,№7\bin\Debug\net5.0\ref\Лб2,№7.dll
+E:\My_Projects\c#\2 курс\Лб2,№7\Лб2,№7\bin\Debug\net5.0\Лб2,№7.pdb
+E:\My_Projects\c#\2 курс\Лб2,№7\Лб2,№7\obj\Debug\net5.0\Лб2,№7.csproj.AssemblyReference.cache
+E:\My_Projects\c#\2 курс\Лб2,№7\Лб2,№7\obj\Debug\net5.0\Лб2,№7.GeneratedMSBuildEditorConfig.editorconfig
+E:\My_Projects\c#\2 курс\Лб2,№7\Лб2,№7\obj\Debug\net5.0\Лб2,№7.AssemblyInfoInputs.cache
+E:\My_Projects\c#\2 курс\Лб2,№7\Лб2,№7\obj\Debug\net5.0\Лб2,№7.AssemblyInfo.cs
+E:\My_Projects\c#\2 курс\Лб2,№7\Лб2,№7\obj\Debug\net5.0\Лб2,№7.csproj.CoreCompileInputs.cache
+E:\My_Projects\c#\2 курс\Лб2,№7\Лб2,№7\obj\Debug\net5.0\Лб2,№7.dll
+E:\My_Projects\c#\2 курс\Лб2,№7\Лб2,№7\obj\Debug\net5.0\ref\Лб2,№7.dll
+E:\My_Projects\c#\2 курс\Лб2,№7\Лб2,№7\obj\Debug\net5.0\Лб2,№7.pdb
+E:\My_Projects\c#\2 курс\Лб2,№7\Лб2,№7\obj\Debug\net5.0\Лб2,№7.genruntimeconfig.cache
